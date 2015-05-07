@@ -27,7 +27,7 @@ Once you enable a CDN endpoint for your origin such as storage account, cloud se
 1.	Log into the [Azure Management Portal](http://manage.windowsazure.com/).
 2.	In the navigation pane, click **CDN**.
 3.	On the ribbon, click **New**. In the **New** dialog, select **App Services**, then **CDN**, then **Quick Create**.
-4.	In the **Origin Domain** dropdown, select your desired destination from the list of available origin type.
+4.	In the **Origin Domain** dropdown, select your desired destination from the list of available origin type. The current available origin type includes: Web Apps, storage, Cloud Services.
 5.	Click the **Create** button to create the new endpoint.
 
 
